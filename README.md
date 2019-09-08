@@ -1,2 +1,2 @@
 # Planetas
-A game i made for Rainbow Jam 2019
+A game we made for Rainbow Jam 2019
